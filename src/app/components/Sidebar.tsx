@@ -49,7 +49,7 @@ export const Sidebar = () => {
             />
           </span>
           <span className="text-sm md:text-base font-bold">
-            Wildo Dev En Proceso De Formación
+            Wildo Dev En Proceso
           </span>
         </a>
       </div>
